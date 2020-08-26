@@ -10,7 +10,10 @@
 
 ## 📁 Project
 
-The ideia is to provide an application web and mobile for a barber shop, where i can make an appointment to cut my hair at available barber time
+The ideia is to provide an application web and mobile for a barber shop, where i can make an appointment to cut my hair at available barber time.
+
+- [Mobile](https://github.com/willianPetri/GoBarber-mobile)
+- [API](https://github.com/willianPetri/GoBarber-backend)
 
 ---
 
@@ -26,7 +29,6 @@ This project was developed at the Rocketseat GoStack Bootcamp with the following
 - [Yup](https://github.com/jquense/yup)
 - [Uuidv4](https://www.npmjs.com/package/uuidv4)
 - [Day-Picker](https://react-day-picker.js.org/docs/getting-started)
-- [API](https://github.com/willianPetri/GoBarber-backend)
 - [VS Code](https://code.visualstudio.com/) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 ---
